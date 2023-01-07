@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Keypad</string>
+    <string name="title_dashboard">Recents</string>
+    <string name="title_contacts">Contacts</string>
+</resources>
